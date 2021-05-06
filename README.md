@@ -10,12 +10,21 @@
 <pre><code>
 <div>Step 1
 #~ sudo apt install colorama
-    
+
 <div>Step 2
-#~ git clone https://github.com/DeaKenas/P1nger
-    
+#~ pkg install python
+
 <div>Step 3
+#~ pkg install python2
+
+<div>Step 4
+#~ git clone https://github.com/DeaKenas/P1nger
+
+<div>Step 5
+#~ cd P1nger
+
+<div>Step 6
 #~ python3 P1nger </code></pre>
 
 <h1 align+"left">Extra Info</h1>
-<div> Nothing yet!
+<div> This script will work on termux as well as all linux distros!
