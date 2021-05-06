@@ -31,4 +31,4 @@
 
 <h1 align+"left">Resources</h1>
 <div>Coded on https://repl.it/
-  Original Fork: https://replit.com/@DeaKenas/P1nger#main.py
+  <div>Original Fork: https://replit.com/@DeaKenas/P1nger#main.py
