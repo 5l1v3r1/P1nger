@@ -1,2 +1,21 @@
 # P1nger
-This is a small pinger I made on my raspberry pi at home.
+
+
+<div>#~ Note
+  <div>I SUCK at HTML and I am still learning so that will explain why this README looks ugly.
+    <div>This is a small pinger I made on my raspberry pi at home when I was bored.
+
+<h1 align="center">How to install!</h1>
+
+<pre><code>
+<div>Step 1
+#~ sudo apt install colorama
+    
+<div>Step 2
+#~ git clone https://github.com/DeaKenas/P1nger
+    
+<div>Step 3
+#~ python3 P1nger </code></pre>
+
+<h1 align+"left">Extra Info</h1>
+<div> Nothing yet!
