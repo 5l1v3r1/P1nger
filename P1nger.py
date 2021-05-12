@@ -15,7 +15,6 @@ print("\__|     \______\__|  \__|\____$$ |\_______\__|      ")
 print("                         $$\   $$ |                  ")
 print("                         \$$$$$$  |                  ")
 print("                          \______/                   ")
-
 print("Thanks for using my custom pinger!")
 
 def ipping():
@@ -36,7 +35,7 @@ def ipping():
         else:
             print("\033[31m" + hostname + " offline" " [" +  str(count) + "]" +  '\033[0m')
         count += 1
-        time.sleep(1)
+        time.sleep(0)
 
 
 ipping()
