@@ -1,3 +1,5 @@
+#Feel free to look at all of the code which is only 43 lines and is pretty basic
+
 import colorama
 import os
 import time
