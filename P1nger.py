@@ -19,7 +19,7 @@ print("Thanks for using my custom pinger!")
 def ipping():
     os.system("cls")
     count = 1
-    e = input("Enter IP Address:   ")
+    e = input("P1nger Target:   ")
     replies = 0
     replies += 1
     hostname = e
