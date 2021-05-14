@@ -1,4 +1,5 @@
-#Feel free to look at all of the code which is only 43 lines and is pretty basic
+#Feel free to look at all of the code
+#Still in development
 
 import sys
 import os
