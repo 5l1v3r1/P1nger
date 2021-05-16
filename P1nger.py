@@ -37,12 +37,11 @@ print("                          \______/                   ")
 print("Thanks for using my custom pinger!")
 print"By DeaKenas"
 print
-ip = raw_input(" Target : ")
+ip = raw_input("Script Target: ")
 
 os.system("clear")
 os.system("figlet ICMP P1NGER")
 while True:
-     sock.sendto(bytes, ip)
+     sock.sendto(bytes, (ip))
      sent = sent + 1
-     port = port + 1
      print "P1NGED %s packets to %s with ICMP"%(sent,ip)
