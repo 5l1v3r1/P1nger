@@ -7,7 +7,7 @@
 <h1 align="center">How to install!</h1>
 
 <pre><code>
-<div>Step 1
+<div>Step 1 (You may not need to)
 #~ sudo apt install colorama
 
 <div>Step 2
@@ -23,7 +23,7 @@
 #~ cd P1nger
 
 <div>Step 6
-#~ python3 P1nger </code></pre>
+#~ python2 P1nger </code></pre>
 
 <h1 align="left">Extra Info</h1>
 <div> This script will work on termux as well as all linux distros!
