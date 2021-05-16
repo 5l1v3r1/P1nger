@@ -41,6 +41,7 @@ ip = raw_input("Script Target: ")
 
 os.system("clear")
 os.system("figlet ICMP P1NGER")
+sent = 0
 while True:
      sock.sendto(bytes, (ip))
      sent = sent + 1
