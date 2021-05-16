@@ -41,8 +41,8 @@ ip = raw_input(" Target : ")
 
 os.system("clear")
 os.system("figlet ICMP P1NGER")
-sent = 0
 while True:
-     sock.sendto(bytes, (ip))
+     sock.sendto(bytes, ip)
      sent = sent + 1
+     port = port + 1
      print "P1NGED %s packets to %s with ICMP"%(sent,ip)
