@@ -45,4 +45,4 @@ sent = 0
 while True:
      sock.sendto(bytes, (ip))
      sent = sent + 1
-     print " %s packet to %s "%(sent,ip)
+     print "P1NGED %s packets to %s with ICMP"%(sent,ip)
