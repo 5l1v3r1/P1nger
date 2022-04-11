@@ -6,8 +6,7 @@
 
 <h1 align="center">How to install!</h1>
 
-<pre><code>
-<div>Step 1 (You may not need to)
+<pre><code><div>Step 1 (You may not need to)
 #~ sudo apt install colorama
 
 <div>Step 2
