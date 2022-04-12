@@ -1,7 +1,6 @@
 # P1nger
 
-<div>#~ Note
-  <div>I SUCK at HTML and I am still learning so that will explain why this README looks ugly.
+  <div>Note: I SUCK at HTML and I am still learning so that will explain why this README looks ugly.
     <div>This is a small pinger I made on my raspberry pi at home when I was bored.
 
 <h1 align="center">How to install!</h1>
