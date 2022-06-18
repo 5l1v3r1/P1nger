@@ -9,19 +9,19 @@
 #~ sudo apt install colorama
 
 <div>Step 2
-#~ pkg install python
+#~ pkg install python3
 
 <div>Step 3
 #~ pkg install python2
 
 <div>Step 4
-#~ git clone https://github.com/DeaKenas/P1nger
+#~ git clone https://github.com/D3fe4ted/P1nger
 
 <div>Step 5
 #~ cd P1nger
 
 <div>Step 6
-#~ python2 P1nger </code></pre>
+#~ python3 P1nger.py </code></pre>
 
 <h1 align="left">Extra Info</h1>
 <div> This script will work on termux as well as all linux distros!
