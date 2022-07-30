@@ -28,5 +28,4 @@
 
 <h1 align="left">Resources</h1>
 <center><div>Coded on https://repl.it/
-  <div>Original Fork: https://replit.com/@DeaKenas/P1nger#main.py
     </center>
